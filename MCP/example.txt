@@ -1,0 +1,8 @@
+error fish
+./batman
+./batman2
+ls -a -l
+ls -l
+ls
+./runhard
+
