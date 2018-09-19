@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Rob's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/RobSap/Operating_Systems/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository uses GitHub Pages and Markdown files. Click [here](https://robsap.github.io/) to view as a webpage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Purpose
 
-### Markdown
+I created this page to highlight the projects I worked on during my time learning programming.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Topics of Interest
+1. [Unity Augmented Reality](https://robsap.github.io/Unity_Augmented_Reality_Apps/)
+2. [Unity Games](https://robsap.github.io/UnityGamesWebGl/)
+3. [Operating Systems](https://robsap.github.io/#)
+4. [Android Applications](https://robsap.github.io/#)
+5. [Machine Learning](https://robsap.github.io/#)
+6. [Deep Learning](https://robsap.github.io/#)
+7. [Group Projects](https://robsap.github.io/#)
+8. [Interview Practice Problems](https://robsap.github.io/#)
+9. [Parallel Programming](https://robsap.github.io/#)
+10. [Other](https://robsap.github.io/#)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobSap/Operating_Systems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
