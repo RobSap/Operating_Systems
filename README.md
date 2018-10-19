@@ -1,20 +1,17 @@
 ## Welcome to Rob's GitHub Pages
 
-This repository uses GitHub Pages and Markdown files. Click [here](https://robsap.github.io/) to view as a webpage.
+This repository uses GitHub Pages and Markdown files. Click [here](https://github.com/RobSap/Operating_Systems) to view as a webpage.
 
-### Purpose
+### Projects
+These are two projects I did for projects in my underrgraduate operating systems class. These programs are written in C and use Linux system calls.
 
-I created this page to highlight the projects I worked on during my time learning programming.
+#### ATP 
+Around the Pond is a program to allow users to let users publish and/or subscribe  to topics (articles) and allower users to read or post only what they want. It is responsive and scalable and simulates a "news" service or a "publisher" service.
 
-### Topics of Interest
-1. [Unity Augmented Reality](https://robsap.github.io/Unity_Augmented_Reality_Apps/)
-2. [Unity Games](https://robsap.github.io/UnityGamesWebGl/)
-3. [Operating Systems](https://robsap.github.io/Operating_Systems/)
-4. [Android Applications](https://robsap.github.io/#)
-5. [Machine Learning](https://robsap.github.io/#)
-6. [Deep Learning](https://robsap.github.io/#)
-7. [Group Projects](https://robsap.github.io/#)
-8. [Interview Practice Problems](https://robsap.github.io/#)
-9. [Parallel Programming](https://robsap.github.io/#)
-10.  [MediFor](https://robsap.github.io/#)
-11. [Other](https://robsap.github.io/#)
+
+#### MCP 
+This is a simulated master control program. The goal is to write a program that will run and schedule workloads for programs on a system.
+
+
+
+
