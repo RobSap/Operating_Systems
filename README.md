@@ -1,6 +1,6 @@
 ## Welcome to Rob's GitHub Pages
 
-This repository uses GitHub Pages and Markdown files. Click [here](https://github.com/RobSap/Operating_Systems) to view as a webpage.
+This repository uses GitHub Pages and Markdown files. Click [here](https://robsap.github.io/Operating_Systems.html) to view as a webpage.
 
 ### Projects
 These are two projects I did for projects in my underrgraduate operating systems class. These programs are written in C and use Linux system calls.
